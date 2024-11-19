@@ -1,6 +1,6 @@
-# 🌍 Land Cover Classification and Forest Change Detection in Kisumu
+# 🌍 Land Cover Classification and Forest Change Detection in Homa Bay County
 
-This repository contains a Google Earth Engine (GEE) script for land cover classification and forest change detection in Kisumu. The analysis is performed using Landsat imagery and training data, with a focus on assessing forest area changes over time.
+This repository contains a Google Earth Engine (GEE) script for land cover classification and forest change detection in Homa Bay County. The analysis is performed using Landsat imagery and training data, with a focus on assessing forest area changes over time.
 
 ---
 
@@ -13,9 +13,9 @@ This repository contains a Google Earth Engine (GEE) script for land cover class
 └── README.md              # Documentation
 ✨ Features
 AOI Definition:
-Defines the Area of Interest (AOI) for Kisumu and overlays it on the map.
+Defines the Area of Interest (AOI) for Homa Bay County and overlays it on the map.
 Landsat Preprocessing:
-Filters and processes Landsat imagery for the years 2013, 2016, 2021, and 2024.
+Filters and processes Landsat imagery for the years 2010, 2015, 2020, and 2024.
 Supervised Classification:
 Utilizes training data to classify land cover into categories: Forest, Water Body, Bareland, Other Vegetations, and Built-up.
 Accuracy Assessment:
